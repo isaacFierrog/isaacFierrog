@@ -9,16 +9,16 @@
  sobre control de versiones 📦. Para ser concretos:
  
 Frontend
- : 🧱HTML 
- : 🖌️CSS (FlexBox y GRID)
- : 💻JavaScript(Vanilla)
- : ⌚BootStrap 4
- : 📦Git y Github
- : 💪VueJS
+ * 🧱HTML 
+ * 🖌️CSS (FlexBox y GRID)
+ * 💻JavaScript(Vanilla)
+ * ⌚BootStrap 4
+ * 📦Git y Github
+ * 💪VueJS
  
 Backend
- : 🐘PHP
- : 🐍Python (Flask)
- : 🐬MySQL
+ * 🐘PHP
+ * 🐍Python (Flask)
+ * 🐬MySQL
  
  Cuento con 1 año de experiencia, adquirida gracias a mis proyectos personales. Si estas interesado en conocerlos y ver asi mis habilidades, aqui te dejo una muestra de los que creo yo, son mis **MEJORES PROYECTOS** (y los que me reventaron la cabeza en su momento 🤣)
