@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @isaacFierrog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola soy Isaac Fierro
+### Y estoy listo para colaborar contigo
 
-<!---
-isaacFierrog/isaacFierrog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Soy un apasionado del desarrollo web, pero sobre todo, adoro por el desarrollo **FrontEnd**  
+ Me encanta poner en practica ante cualquier oportunidad, mis conocimientos, tratando de resolver problemas 
+ y dando soluciones creativas a los mismos. Claro,
+ 
+ Actualmente poseeo varias habilidades tanto del area FrontEnd👁💄️ como del area Backend🔥🖥️, ademas de conocer 
+ sobre control de versiones 📦
