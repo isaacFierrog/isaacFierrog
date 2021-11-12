@@ -8,7 +8,7 @@
  Actualmente poseeo varias habilidades, tanto del area FrontEnd👁💄️ como del area Backend🔥🖥️, ademas de conocer 
  sobre control de versiones 📦. Para ser concretos:
  
- Frontend
+Frontend
  : 🧱HTML 
  : 🖌️CSS (FlexBox y GRID)
  : 💻JavaScript(Vanilla)
@@ -16,7 +16,7 @@
  : 📦Git y Github
  : 💪VueJS
  
- Backend
+Backend
  : 🐘PHP
  : 🐍Python (Flask)
  : 🐬MySQL
