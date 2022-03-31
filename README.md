@@ -13,10 +13,13 @@ Frontend
  * 🖌️CSS (FlexBox y GRID)
  * 💻JavaScript(Vanilla)
  * ⌚BootStrap 4
+ * 💄Tailwind CSS
  * 📦Git y Github
- * 💪VueJS
+ * 💪VueJS(2 & 3)
+ * 🚆Vue Router
+ * 🏦Vuex
+ * ✨TypeScript
  
 Backend
- * 🐘PHP
  * 🐍Python (Flask)
  * 🐬MySQL
